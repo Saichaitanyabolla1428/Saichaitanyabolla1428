@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Saichaitanyabolla1428
 - 🔭 I’m working on DevOps
-- 🌱 I’m currently everythings
+- 🌱 I’m currently learning things
 - 💞️ I’m looking to collaborate with other content creators
 
 <!---
